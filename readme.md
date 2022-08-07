@@ -1,0 +1,1 @@
+This repo is a sanitised copy of my private repo for building a https://foundryvtt.com/ instance in a docker container on Ubuntu as a node.js app.

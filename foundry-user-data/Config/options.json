@@ -1,0 +1,20 @@
+{
+  "awsConfig": null,
+  "dataPath": "/data",
+  "fullscreen": false,
+  "hostname": null,
+  "language": "en.core",
+  "localHostname": null,
+  "minifyStaticFiles": false,
+  "passwordSalt": null,
+  "port": 30000,
+  "proxyPort": null,
+  "proxySSL": false,
+  "routePrefix": null,
+  "sslCert": null,
+  "sslKey": null,
+  "updateChannel": "release",
+  "upnp": false,
+  "upnpLeaseDuration": null,
+  "world": null
+}

@@ -1,0 +1,13 @@
+certbot/conf/archive/my-private-key-:).pem
+foundry-user-data/Config/license.json
+foundry-user-data/Logs/error.log
+foundry-user-data/Logs/debug.log
+certbot/conf/accounts/acme-staging-v02.api.letsencrypt.org/directory/2f6020a1787d3de32486710f321da061/meta.json
+certbot/conf/accounts/acme-staging-v02.api.letsencrypt.org/directory/2f6020a1787d3de32486710f321da061/private_key.json
+certbot/conf/accounts/acme-staging-v02.api.letsencrypt.org/directory/2f6020a1787d3de32486710f321da061/regr.json
+certbot/conf/accounts/acme-v02.api.letsencrypt.org/directory/2f065a1327cf082742ae8ce33bb0759f/meta.json
+certbot/conf/accounts/acme-v02.api.letsencrypt.org/directory/2f065a1327cf082742ae8ce33bb0759f/private_key.json
+certbot/conf/accounts/acme-v02.api.letsencrypt.org/directory/2f065a1327cf082742ae8ce33bb0759f/regr.json
+certbot/conf/csr/0000_csr-certbot.pem
+certbot/conf/keys/0000_key-certbot.pem
+.DS_Store
